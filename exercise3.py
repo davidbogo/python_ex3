@@ -1,4 +1,4 @@
-# David Bogoslavsky ID: 316393974 Naama Omer ID: 207644014
+# David Bogoslavsky
 # Date: 9/1/22
 import csv
 import os
